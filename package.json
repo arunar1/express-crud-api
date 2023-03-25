@@ -1,0 +1,24 @@
+{
+  "name": "express-crud-api",
+  "version": "1.0.0",
+  "description": "crud api",
+  "main": "app.js",
+  "scripts": {
+    "dev":"nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunar1/express-crud-api.git"
+  },
+  "author": "@ar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunar1/express-crud-api/issues"
+  },
+  "homepage": "https://github.com/arunar1/express-crud-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
